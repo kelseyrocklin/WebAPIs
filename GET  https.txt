@@ -1,0 +1,76 @@
+Amanda Suydam 105952938
+CSCI3800 WebAPI
+
+GET  https://www.googleapis.com/books/v1/volumes?q=Turing
+11:18:25.647
+Request Headers:
+cache-control:"no-cache"
+Postman-Token:"560be28d-43fd-45fa-8b99-1acc7e239b6f"
+User-Agent:"PostmanRuntime/3.0.9"
+Accept:"*/*"
+Host:"www.googleapis.com"
+accept-encoding:"gzip, deflate"
+
+Explanations:
+	Cache-control is to indicates what, if any, cached or saved data requests should be used. The no-cache indicates all requests should be pulled from the server, not previously cached items.
+	Postman-token is the token given to this request.
+	User-agent indicated the software or application the user is using to send the request
+	Accept indicates what media types the request should accept and the */* indicates all types
+	Host is the address of the server hosting the accessed data.
+	Accept-encoding indicates what content encoding is accepted. 
+Response Headers:
+expires:"Sat, 04 Feb 2017 18:18:29 GMT"
+date:"Sat, 04 Feb 2017 18:18:29 GMT"
+cache-control:"private, max-age=0, must-revalidate, no-transform"
+etag:""vFp1TYDMppbWxVi0Wgw_upD83cI/5RRZ6VDDjzfz3N1tdYQ3U9X0O2c""
+vary:
+0:"Origin"
+1:"X-Origin"
+content-type:"application/json; charset=UTF-8"
+x-content-type-options:"nosniff"
+x-frame-options:"SAMEORIGIN"
+x-xss-protection:"1; mode=block"
+content-length:"35434"
+server:"GSE"
+alt-svc:"quic=":443"; ma=2592000; v="35,34""
+
+Explanations:
+	Expires tells when the current cached copy expires and can no longer be pulled, it’s dated the moment of the request (seen in date) so the request’s cache expires immediately. 
+	Cache-control is similar to the request. This says the cached copied can only be kept in a private cache, it is not permitted to age (hence the immediate expiration) and it must be revalidated at every request. No transform wasn’t covered in the slide notes but I’m guessing it means the cache should not be changes into any other file types.
+	Etag is related to cache control, if the date changes on the server end the etag changes so it allows for a quick check if a cached version can be used (etag match) or if a fresh version needs to be pulled. 
+	Vary is a value that indicates which fields fully determine whether a cache can be used with revalidation. 0:Origin and 1:X-origin indicate the request must always be revalidated.
+	Content-type indicates what type of content will displayed to the user. Application/json indicates it is returning to be viewed in an application running json and charset tell it what character set to display the information in, in this case utf-8, and 8 bit encoding compatible with asci.
+	Content length indicates the size of the entity body, in this case it is 35,434 octets.
+	Server indicates the software used by the server handling the request. GSE is the name of the software.
+	Alt-svc is an alternative location, a server in a separate network location, where the resources can be accessed
+
+
+These are the requests and responses for the second request in which I chained the id number.  With exceptions of dates and content length they are pretty much the same and mean the same thing.
+
+GET
+https://www.googleapis.com/books/v1/volumes/HyMcH_9eTtoC
+11:18:29.268
+Request Headers:
+cache-control:"no-cache"
+Postman-Token:"6545f5a6-adf7-4b46-92f3-adfc127aa368"
+User-Agent:"PostmanRuntime/3.0.9"
+Accept:"*/*"
+Host:"www.googleapis.com"
+accept-encoding:"gzip, deflate"
+Response Headers:
+expires:"Sat, 04 Feb 2017 18:18:32 GMT"
+date:"Sat, 04 Feb 2017 18:18:32 GMT"
+cache-control:"private, max-age=0, must-revalidate, no-transform"
+etag:""vFp1TYDMppbWxVi0Wgw_upD83cI/jKsG5Qfg3ZBkQJ8Ts9lC7HQtxF0""
+vary:
+0:"Origin"
+1:"X-Origin"
+content-type:"application/json; charset=UTF-8"
+x-content-type-options:"nosniff"
+x-frame-options:"SAMEORIGIN"
+x-xss-protection:"1; mode=block"
+content-length:"4089"
+server:"GSE"
+alt-svc:"quic=":443"; ma=2592000; v="35,34""
+
+
