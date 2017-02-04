@@ -1,0 +1,40 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Homework 1",
+		"_postman_id": "8e8de16d-34df-c6d9-9db8-a78f81d172dc",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://www.googleapis.com/books/v1/volumes?q={{book_title}}",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Status code is 200\"] = responseCode.code === 200;",
+							"tests[\"Body contains Turing\"] = responseBody.has(\"Turing\");     // I think this is just checking if the response has the string \"turing\" somewhere in it, or is it checking each item? Not checking titles?",
+							"",
+							"",
+							"var jsonData = JSON.parse(responseBody);    // parse the returned request.",
+							"postman.setEnvironmentVariable(\"id\", jsonData.items[0].id);  // this isn't setting the id, it's removing the variable",
+							"",
+							""
+						]
+					}
+				}
+			],
+			"request": {
+				"url": "https://www.googleapis.com/books/v1/volumes?q={{book_title}}",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "Looks for books with \"Turing in the title\""
+			},
+			"response": []
+		}
+	]
+}
