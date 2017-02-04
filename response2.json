@@ -1,0 +1,76 @@
+{
+ "kind": "books#volume",
+ "id": "HyMcH_9eTtoC",
+ "etag": "J1noPmQP8s0",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/HyMcH_9eTtoC",
+ "volumeInfo": {
+  "title": "Alan Turing",
+  "subtitle": "The Enigma",
+  "authors": [
+   "Andrew Hodges"
+  ],
+  "publisher": "Princeton University Press",
+  "publishedDate": "2012",
+  "description": "\u003cbr\u003e \u003cp\u003eIt is only a slight exaggeration to say that the British mathematician Alan Turing (1912-1954) saved the Allies from the Nazis, invented the computer and artificial intelligence, and anticipated gay liberation by decades--all before his suicide at age forty-one. This classic biography of the founder of computer science, reissued on the centenary of his birth with a substantial new preface by the author, is the definitive account of an extraordinary mind and life. A gripping story of mathematics, computers, cryptography, and homosexual persecution, Andrew Hodges's acclaimed book captures both the inner and outer drama of Turing's life.\u003c/p\u003e \u003cbr\u003e \u003cp\u003eHodges tells how Turing's revolutionary idea of 1936--the concept of a universal machine--laid the foundation for the modern computer and how Turing brought the idea to practical realization in 1945 with his electronic design. The book also tells how this work was directly related to Turing's leading role in breaking the German Enigma ciphers during World War II, a scientific triumph that was critical to Allied victory in the Atlantic. At the same time, this is the tragic story of a man who, despite his wartime service, was eventually arrested, stripped of his security clearance, and forced to undergo a humiliating treatment program--all for trying to live honestly in a society that defined homosexuality as a crime.\u003c/p\u003e \u003cbr\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_13",
+    "identifier": "9780691155647"
+   },
+   {
+    "type": "ISBN_10",
+    "identifier": "069115564X"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 586,
+  "printedPageCount": 628,
+  "dimensions": {
+   "height": "20.00 cm",
+   "width": "12.70 cm",
+   "thickness": "4.10 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Biography & Autobiography / Science & Technology"
+  ],
+  "averageRating": 1.0,
+  "ratingsCount": 1,
+  "maturityRating": "NOT_MATURE",
+  "allowAnonLogging": false,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://books.google.com/books/content?id=HyMcH_9eTtoC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71-nb-hxfByx4KFqEcm9FXxS5nDKFTYmorz53zmYPQU9DZJeQ04u7xI-o8dn2ZIJ-5hAuaYFUdToG52iYFKPJM4MJSQkREnSuw1aaWkxKnoaycJaaPbHKObB7Z1gwpDWTiszU4a&source=gbs_api",
+   "thumbnail": "http://books.google.com/books/content?id=HyMcH_9eTtoC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70aIcLCQyIXSFQ_SMwSGIaxznh9sRBe50Zw5GiwJkRqFD5a_jWjmbCS48zVgrut_Lu5uMsM5_ErjRILtBqZv57zanyqsxsg8G0twnhOyRvPfM_hHOsa1lH9saxCbg-3iRp2nhd9&source=gbs_api",
+   "small": "http://books.google.com/books/content?id=HyMcH_9eTtoC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71epqJul6kKmGpn2dmnbD5tnsnHwBdxc8_N21Yzo76yigM5EtIGKdthwORo_7r0r9zF8auuxt4OUr9LUwLqQpoa0gRKIkOBAHR2pPDV6eW-WBKtqlHFAjOjM2ex7UCAiAevqVug&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.com/books?id=HyMcH_9eTtoC&hl=&source=gbs_api",
+  "infoLink": "https://play.google.com/store/books/details?id=HyMcH_9eTtoC&source=gbs_api",
+  "canonicalVolumeLink": "https://market.android.com/details?id=book-HyMcH_9eTtoC"
+ },
+ "saleInfo": {
+  "country": "US",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "US",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.com/books/reader?id=HyMcH_9eTtoC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

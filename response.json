@@ -1,0 +1,806 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1611,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HyMcH_9eTtoC",
+   "etag": "C+rJQCCoGtg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HyMcH_9eTtoC",
+   "volumeInfo": {
+    "title": "Alan Turing",
+    "subtitle": "The Enigma",
+    "authors": [
+     "Andrew Hodges"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2012",
+    "description": "\"It is only a slight exaggeration to say that the British mathematician Alan Turing (1912-1954) saved the Allies from the Nazis, invented the computer and artificial intelligence, and anticipated gay liberation by decades--all before his suicide at age forty-one. This New York Times?bestselling biography of the founder of computer science, with a new preface by the author that addresses Turing?s royal pardon in 2013, is the definitive account of an extraordinary mind and life.\" --Amazon.com.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780691155647"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "069115564X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 586,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HyMcH_9eTtoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HyMcH_9eTtoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HyMcH_9eTtoC&printsec=frontcover&dq=Turing&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HyMcH_9eTtoC&dq=Turing&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Alan_Turing.html?hl=&id=HyMcH_9eTtoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=HyMcH_9eTtoC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;--Paul Hoffman, author of T&quot;he Man Who Loved Only Numbers&quot; &quot;A remarkable and admirable biography.&quot;--Simon Singh, author of &quot;The Code Book and Fermat&#39;s Enigma&quot; &quot;A first-rate presentation of the life of a first-rate scientific mind."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w4YSDAAAQBAJ",
+   "etag": "78k947eU6ls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w4YSDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Turing",
+    "subtitle": "Pioneer of the Information Age",
+    "authors": [
+     "B. Jack Copeland"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2014",
+    "description": "Alan Turing is regarded as one of the greatest scientists of the 20th century. But who was Turing, and what did he achieve during his tragically short life of 41 years? Best known as the genius who broke Germany's most secret codes during the war of 1939-45, Turing was also the father of the modern computer. Today, all who 'click-to-open' are familiar with the impact of Turing's ideas. Here, B. Jack Copeland provides an account of Turing's life and work, exploring the key elements of his life-story in tandem with his leading ideas and contributions. The book highlights Turing's contributions to computing and to computer science, including Artificial Intelligence and Artificial Life, and the emphasis throughout is on the relevance of his work to modern developments. The story of his contributions to codebreaking during the Second World War is set in the context of his thinking about machines, as is the account of his work in the foundations of mathematics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198719182"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0198719183"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w4YSDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w4YSDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=w4YSDAAAQBAJ&printsec=frontcover&dq=Turing&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=w4YSDAAAQBAJ&dq=Turing&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Turing.html?hl=&id=w4YSDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=w4YSDAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book highlights Turing&#39;s contributions to computing and to computer science, including Artificial Intelligence and Artificial Life, and the emphasis throughout is on the relevance of his work to modern developments."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dSUTDAAAQBAJ",
+   "etag": "bPiuZLNAFBU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dSUTDAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Essential Turing",
+    "authors": [
+     "Alan Mathison Turing",
+     "B. J. Copeland"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2004-09-09",
+    "description": "Lectures, scientific papers, top secret wartime material, correspondence, and broadcasts are introduced and set in context by Jack Copeland, Director of the Turing Archive for the History of Computing.\"--Jacket.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198250791"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0198250797"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 613,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dSUTDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dSUTDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dSUTDAAAQBAJ&printsec=frontcover&dq=Turing&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dSUTDAAAQBAJ&dq=Turing&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_Essential_Turing.html?hl=&id=dSUTDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=dSUTDAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lectures, scientific papers, top secret wartime material, correspondence, and broadcasts are introduced and set in context by Jack Copeland, Director of the Turing Archive for the History of Computing.&quot;--Jacket."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QJyX175VCj8C",
+   "etag": "4kD9w9zSaDM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QJyX175VCj8C",
+   "volumeInfo": {
+    "title": "Turing (A Novel about Computation)",
+    "authors": [
+     "Christos H. Papadimitriou"
+    ],
+    "publisher": "MIT Press",
+    "publishedDate": "2005-02-11",
+    "description": "Our hero is Turing, an interactive tutoring program and namesake (or virtual emanation?) of Alan Turing, World War II code breaker and father of computer science. In this unusual novel, Turing's idiosyncratic version of intellectual history from a computational point of view unfolds in tandem with the story of a love affair involving Ethel, a successful computer executive, Alexandros, a melancholy archaeologist, and Ian, a charismatic hacker. After Ethel (who shares her first name with Alan Turing's mother) abandons Alexandros following a sundrenched idyll on Corfu, Turing appears on Alexandros's computer screen to unfurl a tutorial on the history of ideas. He begins with the philosopher-mathematicians of ancient Greece -- \"discourse, dialogue, argument, proof...can only thrive in an egalitarian society\" -- and the Arab scholar in ninth-century Baghdad who invented algorithms; he moves on to many other topics, including cryptography and artificial intelligence, even economics and developmental biology. (These lessons are later critiqued amusingly and developed further in postings by a fictional newsgroup in the book's afterword.) As Turing's lectures progress, the lives of Alexandros, Ethel, and Ian converge in dramatic fashion, and the story takes us from Corfu to Hong Kong, from Athens to San Francisco -- and of course to the Internet, the disruptive technological and social force that emerges as the main locale and protagonist of the novel.Alternately pedagogical and romantic, Turing (A Novel about Computation) should appeal both to students and professionals who want a clear and entertaining account of the development of computation and to the general reader who enjoys novels of ideas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262250780"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262250788"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.5.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QJyX175VCj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QJyX175VCj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=QJyX175VCj8C&printsec=frontcover&dq=Turing&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QJyX175VCj8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QJyX175VCj8C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QJyX175VCj8C&rdid=book-QJyX175VCj8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.439E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turing_A_Novel_about_Computation-sample-epub.acsm?id=QJyX175VCj8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Turing_A_Novel_about_Computation-sample-pdf.acsm?id=QJyX175VCj8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=QJyX175VCj8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this unusual novel, Turing&#39;s idiosyncratic version of intellectual history from a computational point of view unfolds in tandem with the story of a love affair involving Ethel, a successful computer executive, Alexandros, a melancholy ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "waj6-DavmX4C",
+   "etag": "nbjSR5DqM3c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/waj6-DavmX4C",
+   "volumeInfo": {
+    "title": "A Madman Dreams of Turing Machines",
+    "authors": [
+     "Janna Levin"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "2009-02-19",
+    "description": "Kurt Gödel’s Incompleteness Theorems sent shivers through Vienna’s intellectual circles and directly challenged Ludwig Wittgenstein’s dominant philosophy. Alan Turing’s mathematical genius helped him break the Nazi Enigma Code during WWII. Though they never met, their lives strangely mirrored one another—both were brilliant, and both met with tragic ends. Here, a mysterious narrator intertwines these parallel lives into a double helix of genius and anguish, wonderfully capturing not only two radiant, fragile minds but also the zeitgeist of the era. From the Trade Paperback edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307538031"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0307538036"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=waj6-DavmX4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=waj6-DavmX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=waj6-DavmX4C&printsec=frontcover&dq=Turing&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=waj6-DavmX4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-waj6-DavmX4C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 11.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=waj6-DavmX4C&rdid=book-waj6-DavmX4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/A_Madman_Dreams_of_Turing_Machines-sample-epub.acsm?id=waj6-DavmX4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/A_Madman_Dreams_of_Turing_Machines-sample-pdf.acsm?id=waj6-DavmX4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=waj6-DavmX4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Here, a mysterious narrator intertwines these parallel lives into a double helix of genius and anguish, wonderfully capturing not only two radiant, fragile minds but also the zeitgeist of the era. From the Trade Paperback edition."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7OkfAQAAIAAJ",
+   "etag": "EDalQgS0S1g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7OkfAQAAIAAJ",
+   "volumeInfo": {
+    "title": "The annotated Turing",
+    "subtitle": "a guided tour through Alan Turing's historic paper on computability and the Turing machine",
+    "authors": [
+     "Charles Petzold"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2008-05-30",
+    "description": "Provides an expansion of Turing's original paper, a brief look at his life, and information on the Turing machine and computability topics.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105131772514"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 372,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7OkfAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7OkfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7OkfAQAAIAAJ&q=Turing&dq=Turing&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=7OkfAQAAIAAJ&dq=Turing&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/The_annotated_Turing.html?hl=&id=7OkfAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=7OkfAQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This absorbing book expands Turing&#39;s now legendary 36-page paper with extensive annotations, fascinating historical context, and page-turning glimpses into his private life."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AcXFfl1pPcgC",
+   "etag": "bicsrjvHliA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AcXFfl1pPcgC",
+   "volumeInfo": {
+    "title": "Parsing the Turing Test",
+    "subtitle": "Philosophical and Methodological Issues in the Quest for the Thinking Computer",
+    "authors": [
+     "Robert Epstein",
+     "Gary Roberts",
+     "Grace Beber"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2008-12-01",
+    "description": "An exhaustive work that represents a landmark exploration of both the philosophical and methodological issues surrounding the search for true artificial intelligence. Distinguished psychologists, computer scientists, philosophers, and programmers from around the world debate weighty issues such as whether a self-conscious computer would create an internet ‘world mind’. This hugely important volume explores nothing less than the future of the human race itself.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402096242"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1402096240"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 517,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AcXFfl1pPcgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AcXFfl1pPcgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=AcXFfl1pPcgC&pg=PA125&dq=Turing&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=AcXFfl1pPcgC&dq=Turing&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Parsing_the_Turing_Test.html?hl=&id=AcXFfl1pPcgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Parsing_the_Turing_Test-sample-epub.acsm?id=AcXFfl1pPcgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Parsing_the_Turing_Test-sample-pdf.acsm?id=AcXFfl1pPcgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=AcXFfl1pPcgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(\u003cb\u003eTuring\u003c/b\u003e, 1951a) \u003cb\u003eTuring\u003c/b\u003e believed that &#39;something like a viva-voce examination&#39; (\u003cbr\u003e\nibid.: 484) was a suitable method for testing a machine&#39;s ability to imitate human \u003cbr\u003e\nintellectual behaviour, for this method &#39;draw[s] a fairly sharp line between the&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C9WQbm4ovFoC",
+   "etag": "MyQvx9Om3F0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C9WQbm4ovFoC",
+   "volumeInfo": {
+    "title": "Alan Turing: His Work and Impact",
+    "authors": [
+     "S. Barry Cooper",
+     "J. van Leeuwen"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "2013-03-18",
+    "description": "In this 2013 winner of the prestigious R.R. Hawkins Award from the Association of American Publishers, as well as the 2013 PROSE Awards for Mathematics and Best in Physical Sciences & Mathematics, also from the AAP, readers will find many of the most significant contributions from the four-volume set of the Collected Works of A. M. Turing. These contributions, together with commentaries from current experts in a wide spectrum of fields and backgrounds, provide insight on the significance and contemporary impact of Alan Turing's work. Offering a more modern perspective than anything currently available, Alan Turing: His Work and Impact gives wide coverage of the many ways in which Turing's scientific endeavors have impacted current research and understanding of the world. His pivotal writings on subjects including computing, artificial intelligence, cryptography, morphogenesis, and more display continued relevance and insight into today's scientific and technological landscape. This collection provides a great service to researchers, but is also an approachable entry point for readers with limited training in the science, but an urge to learn more about the details of Turing's work. 2013 winner of the prestigious R.R. Hawkins Award from the Association of American Publishers, as well as the 2013 PROSE Awards for Mathematics and Best in Physical Sciences & Mathematics, also from the AAP Named a 2013 Notable Computer Book in Computing Milieux by Computing Reviews Affordable, key collection of the most significant papers by A.M. Turing Commentary explaining the significance of each seminal paper by preeminent leaders in the field Additional resources available online",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780123870124"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0123870127"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 944,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=C9WQbm4ovFoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=C9WQbm4ovFoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=C9WQbm4ovFoC&printsec=frontcover&dq=Turing&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=C9WQbm4ovFoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-C9WQbm4ovFoC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 74.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 59.63,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=C9WQbm4ovFoC&rdid=book-C9WQbm4ovFoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.495E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.963E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Alan_Turing_His_Work_and_Impact-sample-epub.acsm?id=C9WQbm4ovFoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Alan_Turing_His_Work_and_Impact-sample-pdf.acsm?id=C9WQbm4ovFoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=C9WQbm4ovFoC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This collection provides a great service to researchers, but is also an approachable entry point for readers with limited training in the science, but an urge to learn more about the details of Turing&#39;s work. 2013 winner of the prestigious ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CEMYUU_HFMAC",
+   "etag": "SZfOZxPPNUI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CEMYUU_HFMAC",
+   "volumeInfo": {
+    "title": "The Turing Test",
+    "subtitle": "Verbal Behavior as the Hallmark of Intelligence",
+    "publisher": "MIT Press",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0262265427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780262265423"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CEMYUU_HFMAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CEMYUU_HFMAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=CEMYUU_HFMAC&printsec=frontcover&dq=Turing&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CEMYUU_HFMAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CEMYUU_HFMAC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CEMYUU_HFMAC&rdid=book-CEMYUU_HFMAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.599E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.979E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Turing_Test-sample-epub.acsm?id=CEMYUU_HFMAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Turing_Test-sample-pdf.acsm?id=CEMYUU_HFMAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=CEMYUU_HFMAC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0IIsoRqw9hgC",
+   "etag": "IETbQn64DlI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0IIsoRqw9hgC",
+   "volumeInfo": {
+    "title": "Alan Turing: Life and Legacy of a Great Thinker",
+    "authors": [
+     "Christof Teuscher"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2004",
+    "description": "Alan Turing's fundamental contributions to computing led to the development of modern computing technology, and his work continues to inspire researchers in computing science and beyond. This book is the definitive collection of commemorative essays, and the distinguished contributors have expertise in such diverse fields as artificial intelligence, natural computing, mathematics, physics, cryptology, cognitive studies, philosophy and anthropology. The volume spans the entire rich spectrum of Turing's life, research work and legacy. New light is shed on the future of computing science by visionary Ray Kurzweil. Notable contributions come from the philosopher Daniel Dennett, the Turing biographer Andrew Hodges, and the distinguished logician Martin Davis, who provides a first critical essay on an emerging and controversial field termed hypercomputation. A special feature of the book is the play by Valeria Patera which tackles the scandal surrounding the last apple, and presents as an enigma the life, death and destiny of the man who did so much to decipher the Enigma code during the Second World War. Other chapters are modern reappraisals of Turing's work on computability, and deal with the major philosophical questions raised by the Turing Test, while the book also contains essays addressing his less well-known ideas on Fibonacci phyllotaxis and connectionism.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3540200207"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540200208"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 542,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0IIsoRqw9hgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0IIsoRqw9hgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0IIsoRqw9hgC&printsec=frontcover&dq=Turing&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0IIsoRqw9hgC&dq=Turing&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com/books/about/Alan_Turing_Life_and_Legacy_of_a_Great_T.html?hl=&id=0IIsoRqw9hgC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Alan_Turing_Life_and_Legacy_of_a_Great_T-sample-pdf.acsm?id=0IIsoRqw9hgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com/books/reader?id=0IIsoRqw9hgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book is the definitive collection of commemorative essays, and the distinguished contributors have expertise in such diverse fields as artificial intelligence, natural computing, mathematics, physics, cryptology, cognitive studies, ..."
+   }
+  }
+ ]
+}
