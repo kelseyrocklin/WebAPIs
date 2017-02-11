@@ -16,13 +16,41 @@
 						"type": "text/javascript",
 						"exec": [
 							"tests[\"Status code is 200\"] = responseCode.code === 200;",
-							"tests[\"Body contains Turing\"] = responseBody.has(\"Turing\");     // I think this is just checking if the response has the string \"turing\" somewhere in it, or is it checking each item? Not checking titles?",
+							"tests[\"Body contains Turing\"] = responseBody.has(\"Turing\");     // this is checking if the response has the string \"turing\" somewhere in it, not each title catagory",
+							"//items[i].title  I'll neeed a loop",
 							"",
+							"var count = 0;",
+							"for (var title in responseBody.items) ",
+							"{",
+							"    if (title.has()) ",
+							"    {",
+							"        count++;",
+							"    }",
+							"}",
+							"var count2 = 0;",
+							"for (i=0; i < count-1; i++)",
+							"{",
+							"    if (items[i].title.has(\"Turing\"))",
+							"    { ",
+							"        count2++;",
+							"    }",
+							"}",
+							"tests[\"All titles contain Turing\"] = count === count2; // if the two numbers match all titles contain Turing",
 							"",
-							"var jsonData = JSON.parse(responseBody);    // parse the returned request.",
-							"postman.setEnvironmentVariable(\"id\", jsonData.items[0].id);  // this isn't setting the id, it's removing the variable",
+							"// Parse the response and chain request for first ID",
+							"var jsonData = JSON.parse(responseBody);   ",
+							"postman.setEnvironmentVariable(\"id\", jsonData.items[0].id);  ",
 							"",
 							""
+						]
+					}
+				},
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"postman.setEnvironmentVariable(\"book_title\", \"Turing\");                       // set and create the environment variable of book title to Turing"
 						]
 					}
 				}
@@ -33,6 +61,30 @@
 				"header": [],
 				"body": {},
 				"description": "Looks for books with \"Turing in the title\""
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.googleapis.com/books/v1/volumes/{{id}}",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"tests[\"Code response is 200\"] = responseCode.code === 200;",
+							"var data = JSON.parse(responseBody);",
+							"tests[ \"Ids match\"] = data.id === \"HyMcH_9eTtoC\";"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": "https://www.googleapis.com/books/v1/volumes/{{id}}",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "match ids to the selected id from turing request"
 			},
 			"response": []
 		}
